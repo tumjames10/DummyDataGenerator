@@ -1,0 +1,5 @@
+c:\users\billy.j.b.tumulak\documents\visual studio 2015\Projects\DummyDataGenerator\DummyDataGenerator\obj\Debug\Dummy.Value.Generator.csprojResolveAssemblyReference.cache
+c:\users\billy.j.b.tumulak\documents\visual studio 2015\Projects\DummyDataGenerator\DummyDataGenerator\bin\Debug\DummyDataGenerator.dll
+c:\users\billy.j.b.tumulak\documents\visual studio 2015\Projects\DummyDataGenerator\DummyDataGenerator\bin\Debug\DummyDataGenerator.pdb
+c:\users\billy.j.b.tumulak\documents\visual studio 2015\Projects\DummyDataGenerator\DummyDataGenerator\obj\Debug\DummyDataGenerator.dll
+c:\users\billy.j.b.tumulak\documents\visual studio 2015\Projects\DummyDataGenerator\DummyDataGenerator\obj\Debug\DummyDataGenerator.pdb

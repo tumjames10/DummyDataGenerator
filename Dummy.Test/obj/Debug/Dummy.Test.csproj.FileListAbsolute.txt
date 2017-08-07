@@ -1,0 +1,8 @@
+c:\users\billy.j.b.tumulak\documents\visual studio 2015\Projects\DummyDataGenerator\Dummy.Test\bin\Debug\Dummy.Test.dll
+c:\users\billy.j.b.tumulak\documents\visual studio 2015\Projects\DummyDataGenerator\Dummy.Test\bin\Debug\Dummy.Test.pdb
+c:\users\billy.j.b.tumulak\documents\visual studio 2015\Projects\DummyDataGenerator\Dummy.Test\bin\Debug\DummyDataGenerator.dll
+c:\users\billy.j.b.tumulak\documents\visual studio 2015\Projects\DummyDataGenerator\Dummy.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\billy.j.b.tumulak\documents\visual studio 2015\Projects\DummyDataGenerator\Dummy.Test\bin\Debug\DummyDataGenerator.pdb
+c:\users\billy.j.b.tumulak\documents\visual studio 2015\Projects\DummyDataGenerator\Dummy.Test\obj\Debug\Dummy.Test.csprojResolveAssemblyReference.cache
+c:\users\billy.j.b.tumulak\documents\visual studio 2015\Projects\DummyDataGenerator\Dummy.Test\obj\Debug\Dummy.Test.dll
+c:\users\billy.j.b.tumulak\documents\visual studio 2015\Projects\DummyDataGenerator\Dummy.Test\obj\Debug\Dummy.Test.pdb
