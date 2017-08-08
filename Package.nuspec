@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Dummy Data Generator</id>
+    <version>1.0.0</version>
+    <authors>billy.j.b.tumulak</authors>
+    <owners>billy.j.b.tumulak</owners>
+    <projectUrl>https://github.com/tumjames10/DummyDataGenerator</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Generates dummy data to increase productivity in Testing</description>
+    <releaseNotes>First Release</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>Property Generator Dummy Data</tags>
+    <dependencies>
+      <dependency id="SampleDependency" version="1.0" />
+    </dependencies>
+  </metadata>
+</package>
